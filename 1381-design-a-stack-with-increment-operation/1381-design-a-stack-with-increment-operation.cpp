@@ -23,10 +23,9 @@ public:
     int pop() 
     {
         if(currentSize == 0) return -1;
-        int ret = arr[top];
         --top;
         --currentSize;
-        return ret;
+        return arr[top+1];
     }
     
     void increment(int k, int val) 
