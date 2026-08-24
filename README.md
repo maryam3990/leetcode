@@ -18,4 +18,12 @@
 |  |
 | ------- |
 | [1381-design-a-stack-with-increment-operation](https://github.com/maryam3990/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/maryam3990/leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/maryam3990/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
