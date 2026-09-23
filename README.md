@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/maryam3990/leetcode/tree/master/0011-container-with-most-water) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/maryam3990/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Stack
 |  |
@@ -26,4 +27,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/maryam3990/leetcode/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/maryam3990/leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/maryam3990/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
